@@ -1,0 +1,13 @@
+{
+  "name": "uni-quindio-dokploy-app",
+  "version": "1.0.0",
+  "description": "Aplicación de prueba para Dokploy",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "mysql2": "^3.24.6"
+  }
+}
